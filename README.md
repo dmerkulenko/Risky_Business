@@ -1,6 +1,6 @@
 # Cresit Risk Analysis - Imbalanced Classification Machine Learning 
  
-![Credit Risk](Images/credit-risk.jpg)
+![Credit Risk](Images/credit-risk.jpeg)
 
 ## Background
 
